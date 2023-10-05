@@ -5,7 +5,7 @@ Repositório destinado à atividade prática de Linux (Programa de Bolsas - AWS 
 * Geração de uma chave pública para acesso ao ambiente;
 * Criação de uma instância EC2 com o sistema operacional Amazon Linux 2:
     * Família t3.small;
-    * Volume de 16 GB SSD
+    * Volume de 16 GB SSD;
 * Geração de um Elastic IP e sua associação à instância EC2;
 * Liberação das portas de comunicação para acesso público:
     * 22/TCP;
